@@ -1,0 +1,1 @@
+lb config -a i386 -k 586 --debian-installer live
