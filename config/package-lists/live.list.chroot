@@ -6,12 +6,9 @@ xorg
 openbox
 obmenu
 obconf
-obapps
 nitrogen
 gmrun
 fbxkb
-compton-git
-transset-df
 file-roller
 xscreensaver
 xfce4-power-manager
@@ -19,7 +16,6 @@ terminator
 lxappearance
 arandr
 tint2
-tint2conf
 clipit
 catfish
 xfce4-notifyd
@@ -33,7 +29,6 @@ lightdm
 thunar
 thunar-volman
 thunar-archive-plugin
-thunar-dropbox-plugin
 thunar-media-tags-plugin
 unace
 lzop
@@ -47,11 +42,9 @@ arj
 bzip2
 alsa-base
 lame
-pnmixer
 xfce4-mixer
 pulseaudio
 pavucontrol
-libdvdcss2
 xfce4-volumed
 viewnior
 xfce4-screenshooter
