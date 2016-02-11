@@ -1,2 +1,6 @@
+#Arch/Kernel/Installer/Live
 lb config -a i386 -k 586 --debian-installer live
-lb config --bootappend-live "boot=live components username=crunch"
+
+
+#Package List:
+config/package-lists/live.list.chroot
