@@ -11,13 +11,11 @@ gmrun
 fbxkb
 file-roller
 xscreensaver
-xfce4-power-manager
 terminator
 lxappearance
 arandr
 tint2
 clipit
-catfish
 xfce4-notifyd
 gksu
 gdebi
@@ -53,10 +51,6 @@ ttf-liberation
 galculator
 gsimplecal
 iceweasel
-network-manager-gnome
-network-manager-openvpn-gnome
-network-manager-pptp-gnome
-network-manager-vpnc-gnome
 avahi-utils
 avahi-daemon
 libnss-mdns
@@ -109,7 +103,6 @@ htop
 xsel
 build-essential
 xchat
-transmission-gtk
 vlc
 geany
 geany-plugins
@@ -118,3 +111,7 @@ gimp
 gimp-plugin-registry
 gnumeric
 abiword
+
+deluge
+searchmonkey
+network-manager-gnome
