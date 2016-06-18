@@ -1,3 +1,5 @@
 lb config -a i386 --debian-installer live
 
 Added apt-key to /config/archives
+
+Added sources.list entries in config/archives for backports and cbpp repos [build and live]

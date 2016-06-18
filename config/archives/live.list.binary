@@ -1,0 +1,3 @@
+deb http://packages.crunchbangplusplus.org/jessie jessie main
+
+deb http://ftp.debian.org/debian jessie-backports main contrib non-free
