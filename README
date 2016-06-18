@@ -5,3 +5,5 @@ Added apt-key to /config/archives
 Added sources.list entries in config/archives for backports and cbpp repos [build and live]
 
 lb config -k 586
+
+Package lists at config/package-lists/*
