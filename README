@@ -7,3 +7,7 @@ Added sources.list entries in config/archives for backports and cbpp repos [buil
 lb config -k 586
 
 Package lists at config/package-lists/*
+
+lb config --mirror-binary http://http.debian.net/debian/ --mirror-binary-security http://security.debian.org/ --mirror-binary-backports http://ftp.debian.org/debian/
+
+lb config --apt-indices false

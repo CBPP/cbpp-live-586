@@ -5,8 +5,8 @@
 LB_BINARY_FILESYSTEM="fat32"
 
 # $LB_APT_INDICES: set apt/aptitude generic indices
-# (Default: true)
-LB_APT_INDICES="true"
+# (Default: false)
+LB_APT_INDICES="false"
 
 # $LB_BOOTAPPEND_LIVE: set boot parameters
 # (Default: empty)
