@@ -25,13 +25,13 @@ LB_LINUX_FLAVOURS="586"
 LB_LINUX_PACKAGES="linux-image"
 
 # $LB_SECURITY: enable security updates
-# (Default: false)
-LB_SECURITY="false"
+# (Default: true)
+LB_SECURITY="true"
 
 # $LB_UPDATES: enable updates updates
-# (Default: false)
-LB_UPDATES="false"
+# (Default: true)
+LB_UPDATES="true"
 
 # $LB_BACKPORTS: enable backports updates
-# (Default: false)
-LB_BACKPORTS="false"
+# (Default: true)
+LB_BACKPORTS="true"
