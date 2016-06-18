@@ -1,8 +1,3 @@
-#Arch/Kernel/Installer/Live
-lb config -a i386 -k 586 --debian-installer live
+lb config -a i386 --debian-installer live
 
-#Package List:
-config/package-lists/live.list.chroot
-
-#CBPP repo + metapackage
-config/hooks/001-crunchify.hook.chroot
+Added apt-key to /config/archives
