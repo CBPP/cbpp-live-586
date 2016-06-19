@@ -22,7 +22,7 @@ LB_LINUX_FLAVOURS="686"
 
 # $LB_LINUX_PACKAGES: set kernel packages to use
 # (Default: autodetected)
-LB_LINUX_PACKAGES="linux-image-4.5.0-0.bpo.2"
+LB_LINUX_PACKAGES="linux-image"
 
 # $LB_SECURITY: enable security updates
 # (Default: true)
