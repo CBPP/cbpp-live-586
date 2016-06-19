@@ -18,11 +18,11 @@ LB_KEYRING_PACKAGES="debian-archive-keyring"
 
 # $LB_LINUX_FLAVOURS: set kernel flavour to use
 # (Default: autodetected)
-LB_LINUX_FLAVOURS="586"
+LB_LINUX_FLAVOURS="686"
 
 # $LB_LINUX_PACKAGES: set kernel packages to use
 # (Default: autodetected)
-LB_LINUX_PACKAGES="linux-image-4.5.0"
+LB_LINUX_PACKAGES="linux-image-4.5.0-0.bpo.2"
 
 # $LB_SECURITY: enable security updates
 # (Default: true)

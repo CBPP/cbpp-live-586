@@ -4,8 +4,6 @@ Added apt-key to /config/archives
 
 Added sources.list entries in config/archives for backports and cbpp repos [build and live]
 
-lb config -k 586
-
 Package lists at config/package-lists/*
 
 lb config --mirror-binary http://http.debian.net/debian/ --mirror-binary-security http://security.debian.org/ 
@@ -17,4 +15,6 @@ lb config --apt-indices false
 
 lb config --security true --updates true --backports true
 
-lb config --linux-package linux-image-4.5.0
+lb config --linux-package linux-image-4.5.0-0.bpo.2
+
+lb config -k 686
