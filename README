@@ -16,3 +16,5 @@ lb config --mirror-binary http://http.debian.net/debian/ --mirror-binary-securit
 lb config --apt-indices false
 
 lb config --security true --updates true --backports true
+
+lb config --linux-package linux-image-4.5.0
