@@ -15,4 +15,4 @@ lb config --apt-indices false
 
 lb config --security true --updates true --backports true
 
-lb config -k 686
+lb config -k 586
