@@ -16,3 +16,7 @@ lb config --apt-indices false
 lb config --security true --updates true --backports true
 
 lb config -k 586
+
+Add cbpp-metpackage to config/package-lists/*
+
+lb config --bootappend-live "boot=live components username=live"
