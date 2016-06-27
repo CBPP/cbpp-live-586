@@ -20,3 +20,5 @@ lb config -k 586
 Add cbpp-metpackage to config/package-lists/*
 
 lb config --bootappend-live "boot=live components username=live"
+
+Added lightdm greeter conf file to includes
