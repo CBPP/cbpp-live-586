@@ -22,3 +22,10 @@ Add cbpp-metpackage to config/package-lists/*
 lb config --bootappend-live "boot=live components username=live"
 
 Added lightdm greeter conf file to includes.*
+
+cp -r /usr/share/live/build/bootloaders/isolinux config/bootloaders/
+^^copy and edit splash
+
+Traverse 3rd circle of hell to find d-i override files for config/includes.installer
+
+Add preseed file to config/includes.installer
